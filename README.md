@@ -1,12 +1,11 @@
 ## Hi there 👋
 
-# 💫 About Me:
-Software Engineering student
-
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&size=22&duration=2800&pause=800&color=36BCF7&center=true&vCenter=true&width=650&lines=Designing+scalable+APIs;Working+with+Go+and+low-level+concepts;Sockets+%7C+Concurrency+%7C+Performance;Learning+by+building" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&size=22&duration=2800&pause=800&color=F75C7E&center=true&vCenter=true&width=650&lines=Designing+scalable+APIs;Working+with+Go+and+low-level+concepts;Sockets+%7C+Concurrency+%7C+Performance;Learning+by+building" />
 </div>
 
+# 💫 About Me:
+Software Engineering student
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gonza.curi) 
