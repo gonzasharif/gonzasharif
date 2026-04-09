@@ -37,22 +37,6 @@ Software Engineering student
 
 
 <div align="center">
-<table>
-<tr>
-<td width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=NaPrado&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-
-</td>
-<td width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gonzasharif&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-
-</td>
-</tr>
-</table>
-
-<br>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=gonzasharif&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
 </div>
